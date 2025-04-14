@@ -65,7 +65,7 @@ The project uses a ZIP file containing Lo-Fi MIDI files stored in Google Drive.
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-dataset link : [🎼 Dataset: Lo-Fi Hip Hop MIDIs (Google Drive)]([https://drive.google.com/drive/folders/1vfHDpVPoOfYVm1UoXgl8puWFGeL0zjuE?usp=sharing](https://drive.google.com/drive/folders/1D10oWCm9VSI5NpVIgXo7J7fx-jlfly_s?usp=sharing))
+dataset link : https://drive.google.com/drive/folders/1D10oWCm9VSI5NpVIgXo7J7fx-jlfly_s?usp=sharing
 ---
 
 ## 🧠 Model Architecture
