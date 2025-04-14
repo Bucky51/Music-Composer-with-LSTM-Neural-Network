@@ -133,8 +133,3 @@ For questions or improvements, feel free to reach out or contribute!
 ## 📄 License
 
 This project is open-source under the MIT License.
-```
-
----
-
-Let me know if you want to include visuals (like loss plots or sample audio links), or if you’re planning to share it on GitHub and need help writing a `requirements.txt` or `.gitignore`!
